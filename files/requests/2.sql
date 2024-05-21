@@ -1,0 +1,1 @@
+SELECT AVG(Age) FROM music_data;

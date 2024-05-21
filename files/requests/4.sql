@@ -1,0 +1,1 @@
+SELECT * FROM music_data WHERE "Primary streaming service"='Spotify' ;
